@@ -1,16 +1,15 @@
-### Hi there 👋
+![Aldiariq Banner Image](./images/github-aldiariq.jpg)
 
-<!--
-**aldiariq/aldiariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Aldi 👋
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aldiariq.aldiariq)](https://github.com/aldiariq) [![GitHub followers](https://img.shields.io/github/followers/aldiariq.svg?style=social&label=Follow)](https://github.com/aldiariq?tab=followers)
 
-Here are some ideas to get you started:
+<h2>👀 About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I am a full stack website and mobile app developer. This is the place where I immortalize the results of my learning programming that may be useful for others. If you need, you can contact me at aldi48767@gmail.com. Big thanks to you..</p>
+
+<h2>💻 My Stats</h2>
+
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldiariq" alt="GitHub Stats" /> <br/><br/>
+</div>
